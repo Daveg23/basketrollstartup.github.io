@@ -1,0 +1,114 @@
+body {
+	background-image: url(https://www.nba.com/warriors/sites/warriors/files/selloutrecord-1280.jpg);  
+	font-family: 'Kumbh Sans', sans-serif;
+}
+
+.pic1 {
+	display: flex;
+	justify-content: center;
+	border-style: solid;
+	border-color: white;
+	border-radius: 15px;
+	margin-right: 220px;
+	margin-left: 220px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: rgba(255, 99, 71, 0.5)
+
+}
+
+.navbar-brand {
+	color: white;
+
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	height: auto;
+	transition: 1s;
+}
+
+img:hover {
+	transform: scale(1.2);
+}
+
+.container2 {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 20px;
+}
+
+.container3 {
+	border-style: solid;
+	border-color: white;
+	background-color: white;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+.container4 {
+	display: flex;
+	justify-content: center;
+	margin-top: 90px;
+}
+
+.container-fluid-1 img {
+	transform: scale(1.1);
+
+
+}
+
+.container-fluid-1 li {
+	display: inline-block;
+	list-style-type: circle;
+
+}
+
+.border1 {
+	display: flex;
+	justify-content: center;
+	border-style: solid;
+	border-color: white;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: rgba(255, 99, 71, 0.5);
+	vertical-align: top;
+
+}
+
+.navbar {
+	display: flex;
+	justify-content: center;
+}
+
+.footnote {
+	background-color: orange;
+	padding: 20px;
+
+}
+
+.footnote li {
+	display: inline-block;
+	color: white;
+}
+
+.footnote ul {
+	padding-right: 32px;
+}
+
+.fa {
+	text-decoration: none;
+}
+
+h6 {
+	color: white;
+}
